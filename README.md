@@ -19,4 +19,4 @@
 
 [twitter]: https://twitter.com/@andradejacob36
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://linkedin.com/in/jacob-andrade-065686140
