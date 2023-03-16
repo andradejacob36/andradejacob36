@@ -18,5 +18,5 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/@andradejacob36
-[instagram]: https://www.instagram.com/Josh
+[instagram]: https://www.instagram.com/j_andrade_2019
 [linkedin]: https://linkedin.com/in/jacob-andrade-065686140
