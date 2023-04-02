@@ -10,7 +10,7 @@
 - <b>Microsoft Azure</b>
   - [Setting up a Virtual Machine](https://github.com/andradejacob36/Setting-up-a-Virtual-Machine)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/andradejacob36/-configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/andradejacob36/azure-network-protocols)
+  - [VPN Setup and Usage (Proton VPN)](https://github.com/andradejacob36/)
 
 <h2>🤳Connect with me:</h2>
 
