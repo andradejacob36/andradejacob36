@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/andradejacob36/osTicket-Help-Desk-Implementation)
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/andradejacob36/-configure-ad)
+  - [Implementing Active Directory (On-Premises) in Azure](https://github.com/andradejacob36/-configure-ad)
   - [VPN Setup and Usage (Proton VPN)](https://github.com/andradejacob36/VPN-Setup-and-Usage-Proton-VPN)
 
 <h2>🤳Connect with me:</h2>
