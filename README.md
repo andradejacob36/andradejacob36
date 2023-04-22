@@ -10,7 +10,7 @@
   - [VPN Setup and Usage (Proton VPN)](https://github.com/andradejacob36/VPN-Setup-and-Usage-Proton-VPN)
 
 - <b>Python For Eveyone</b>
-  - [Testing](https://github.com/andradejacob36/Python-for-Everyone)
+  - [My Projects](https://github.com/andradejacob36/Python-for-Everyone)
 
 
 <h2>🤳Connect with me:</h2>
