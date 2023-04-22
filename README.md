@@ -9,7 +9,7 @@
   - [Implementing Active Directory (On-Premises) in Azure](https://github.com/andradejacob36/Implementing-Active-Directory-On-Premises-in-Azure.)
   - [VPN Setup and Usage (Proton VPN)](https://github.com/andradejacob36/VPN-Setup-and-Usage-Proton-VPN)
 
-- <b>Python For Eveyone</b>
+- <b>Python For Everyone</b>
   - [My Projects](https://github.com/andradejacob36/Python-for-Everyone)
 
 
