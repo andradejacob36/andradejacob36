@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation on Azure](https://github.com/andradejacob36/osTicket-Help-Desk-Implementation)
   - [Implementing Active Directory (On-Premises) on Azure](https://github.com/andradejacob36/Implementing-Active-Directory-On-Premises-in-Azure.)
   - [VPN Setup and Usage (Proton VPN) on Azure](https://github.com/andradejacob36/VPN-Setup-and-Usage-Proton-VPN)
-  - [Creating First Source on Azure](https://github.com/andradejacob36/Creating-First-Source)
+  - [Creating An Azure Storage Account](https://github.com/andradejacob36/Creating-An-Azure-Storage-Account)
 
 
 - <b>Grow with Google on Coursera: Technical Support Fundamentals</b>
