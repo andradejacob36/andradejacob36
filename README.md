@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>CourseCareers: Projects</b>
-  - [OsTicket: Prerequisites and Installation on Azure](https://github.com/andradejacob36/osTicket-Help-Desk-Implementation)
-  - [Implementing Active Directory (On-Premises) on Azure](https://github.com/andradejacob36/Implementing-Active-Directory-On-Premises-in-Azure.)
-  - [VPN Setup and Usage (Proton VPN) on Azure](https://github.com/andradejacob36/VPN-Setup-and-Usage-Proton-VPN)
+- <b>CourseCareers: Azure Projects</b>
+  - [OsTicket: Prerequisites and Installation](https://github.com/andradejacob36/osTicket-Help-Desk-Implementation)
+  - [Implementing Active Directory (On-Premises)](https://github.com/andradejacob36/Implementing-Active-Directory-On-Premises-in-Azure.)
+  - [VPN Setup and Usage (Proton VPN)](https://github.com/andradejacob36/VPN-Setup-and-Usage-Proton-VPN)
   - [Creating An Azure Storage Account](https://github.com/andradejacob36/Creating-An-Azure-Storage-Account)
 
 
