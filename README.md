@@ -9,7 +9,7 @@
   - [How to Use Remote Desktop With MacOS](https://github.com/andradejacob36/How-to-Use-Remote-Desktop-With-MacOS)
 
 - <b>CourseCareers(Lab 3): Ticketing Systems (osticket)</b>
-  - [OsTicket: Installation](https://github.com/andradejacob36/osTicket-Help-Desk-Implementation)
+  - [osTicket: Installation](https://github.com/andradejacob36/osTicket-Help-Desk-Implementation)
 
 - <b>CourseCareers(Lab 4): Virtual Private Networks (VPNs) </b>
   - [VPN Setup and Usage (Proton VPN)](https://github.com/andradejacob36/VPN-Setup-and-Usage-Proton-VPN)
