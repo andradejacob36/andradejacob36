@@ -2,11 +2,17 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>CourseCareers: Azure Projects</b>
+- <b>CourseCareers(Lab 1): Azure Crash Course</b>
+  - [Creating An Azure Storage Account](https://github.com/andradejacob36/Creating-An-Azure-Storage-Account)
+
+- <b>CourseCareers(LAb 2): Azure Compute and Networking </b>
+  - [How to Use Remote Desktop With MacOS](https://github.com/andradejacob36/)
+
+
+
   - [OsTicket: Prerequisites and Installation](https://github.com/andradejacob36/osTicket-Help-Desk-Implementation)
   - [Implementing Active Directory (On-Premises)](https://github.com/andradejacob36/Implementing-Active-Directory-On-Premises-in-Azure.)
   - [VPN Setup and Usage (Proton VPN)](https://github.com/andradejacob36/VPN-Setup-and-Usage-Proton-VPN)
-  - [Creating An Azure Storage Account](https://github.com/andradejacob36/Creating-An-Azure-Storage-Account)
 
 
 - <b>Grow with Google on Coursera: Technical Support Fundamentals</b>
