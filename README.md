@@ -8,23 +8,17 @@
 - <b>CourseCareers(Lab 2): Azure Compute and Networking </b>
   - [How to Use Remote Desktop With MacOS](https://github.com/andradejacob36/How-to-Use-Remote-Desktop-With-MacOS)
 
-
 - <b>CourseCareers(Lab 3): Ticketing Systems (osticket)</b>
-  - [OsTicket: Prerequisites and Installation](https://github.com/andradejacob36/osTicket-Help-Desk-Implementation)
+  - [OsTicket: Installation](https://github.com/andradejacob36/osTicket-Help-Desk-Implementation)
 
-
-
-
-- <b>CourseCareers(Lab 4): Azure Compute and Networking </b>
-- <b>CourseCareers(Lab 5): Azure Compute and Networking </b>
-- <b>CourseCareers(Lab 6): Azure Compute and Networking </b>
-- <b>CourseCareers(Lab 7): Azure Compute and Networking </b>
-
-
-  - [OsTicket: Prerequisites and Installation](https://github.com/andradejacob36/osTicket-Help-Desk-Implementation)
-  - [Implementing Active Directory (On-Premises)](https://github.com/andradejacob36/Implementing-Active-Directory-On-Premises-in-Azure.)
+- <b>CourseCareers(Lab 4): Virtual Private Networks (VPNs) </b>
   - [VPN Setup and Usage (Proton VPN)](https://github.com/andradejacob36/VPN-Setup-and-Usage-Proton-VPN)
 
+- <b>CourseCareers(Lab 5): Active Directory </b>
+  - [Deploying Active Directory And Creating Users](https://github.com/andradejacob36/Implementing-Active-Directory-On-Premises-in-Azure.)
+
+- <b>CourseCareers(Lab 6): DNS </b>
+- <b>CourseCareers(Lab 7): Network File Shares And Permissions </b>
 
 - <b>Grow with Google on Coursera: Technical Support Fundamentals</b>
   - [Creating a Folder with Windows on a VM](https://github.com/andradejacob36/Creating-a-Folder-with-Windows-on-a-VM)
