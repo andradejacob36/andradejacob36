@@ -5,9 +5,20 @@
 - <b>CourseCareers(Lab 1): Azure Crash Course</b>
   - [Creating An Azure Storage Account](https://github.com/andradejacob36/Creating-An-Azure-Storage-Account)
 
-- <b>CourseCareers(LAb 2): Azure Compute and Networking </b>
+- <b>CourseCareers(Lab 2): Azure Compute and Networking </b>
   - [How to Use Remote Desktop With MacOS](https://github.com/andradejacob36/How-to-Use-Remote-Desktop-With-MacOS)
 
+
+- <b>CourseCareers(Lab 3): Ticketing Systems (osticket)</b>
+  - [OsTicket: Prerequisites and Installation](https://github.com/andradejacob36/osTicket-Help-Desk-Implementation)
+
+
+
+
+- <b>CourseCareers(Lab 4): Azure Compute and Networking </b>
+- <b>CourseCareers(Lab 5): Azure Compute and Networking </b>
+- <b>CourseCareers(Lab 6): Azure Compute and Networking </b>
+- <b>CourseCareers(Lab 7): Azure Compute and Networking </b>
 
 
   - [OsTicket: Prerequisites and Installation](https://github.com/andradejacob36/osTicket-Help-Desk-Implementation)
