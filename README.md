@@ -7,6 +7,8 @@
 
 - <b>CourseCareers(Lab 2): Azure Compute and Networking </b>
   - [How to Use Remote Desktop With MacOS](https://github.com/andradejacob36/How-to-Use-Remote-Desktop-With-MacOS)
+  - [Performing Activities on the Network](https://github.com/andradejacob36/)
+
 
 - <b>CourseCareers(Lab 3): Ticketing Systems (osticket)</b>
   - [osTicket: Installation](https://github.com/andradejacob36/osTicket-Help-Desk-Implementation)
