@@ -6,7 +6,7 @@
   - [Creating An Azure Storage Account](https://github.com/andradejacob36/Creating-An-Azure-Storage-Account)
 
 - <b>CourseCareers(Lab 2): Azure Compute and Networking </b>
-  - [How to Use Remote Desktop With MacOS](https://github.com/andradejacob36/How-to-Use-Remote-Desktop-With-MacOS)
+  - [Lab Overview and Creating Our Resources](https://github.com/andradejacob36/Lab-Overview-and-Creating-Our-Resources)
   - [Performing Activities on the Network](https://github.com/andradejacob36/)
 
 
