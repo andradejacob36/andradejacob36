@@ -2,15 +2,10 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>CourseCareers(Lab 1): Azure Crash Course</b>
+- <b>CourseCareers: Azure Crash Course</b>
   - [Creating An Azure Storage Account](https://github.com/andradejacob36/Creating-An-Azure-Storage-Account)
 
-- <b>CourseCareers(Lab 2): Azure Compute and Networking </b>
-  - [Lab Overview and Creating Our Resources](https://github.com/andradejacob36/Lab-Overview-and-Creating-Our-Resources)
-  - [Performing Activities on the Network](https://github.com/andradejacob36/)
-
-
-- <b>CourseCareers(Lab 3): Ticketing Systems (osticket)</b>
+- <b>CourseCareers: Ticketing Systems (osticket)</b>
   - [osTicket: Installation](https://github.com/andradejacob36/osTicket-Help-Desk-Implementation)
 
 - <b>CourseCareers(Lab 4): Virtual Private Networks (VPNs) </b>
@@ -18,13 +13,6 @@
 
 - <b>CourseCareers(Lab 5): Active Directory </b>
   - [Deploying Active Directory And Creating Users](https://github.com/andradejacob36/Implementing-Active-Directory-On-Premises-in-Azure.)
-
-- <b>CourseCareers(Lab 6): DNS </b>
-- <b>CourseCareers(Lab 7): Network File Shares And Permissions </b>
-
-- <b>Grow with Google on Coursera: Technical Support Fundamentals</b>
-  - [Creating a Folder with Windows on a VM](https://github.com/andradejacob36/Creating-a-Folder-with-Windows-on-a-VM)
-  - [Creating a Folder with Linux](https://github.com/andradejacob36/Creating-a-Folder-with-Linux)
 
 - <b>Python For Everyone</b>
   - [My Projects](https://github.com/andradejacob36/Python-for-Everyone)
