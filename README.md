@@ -8,10 +8,10 @@
 - <b>CourseCareers: Ticketing Systems (osticket)</b>
   - [osTicket: Installation](https://github.com/andradejacob36/osTicket-Help-Desk-Implementation)
 
-- <b>CourseCareers(Lab 4): Virtual Private Networks (VPNs) </b>
+- <b>CourseCareers: Virtual Private Networks (VPNs) </b>
   - [VPN Setup and Usage (Proton VPN)](https://github.com/andradejacob36/VPN-Setup-and-Usage-Proton-VPN)
 
-- <b>CourseCareers(Lab 5): Active Directory </b>
+- <b>CourseCareers: Active Directory </b>
   - [Deploying Active Directory And Creating Users](https://github.com/andradejacob36/Implementing-Active-Directory-On-Premises-in-Azure.)
 
 - <b>Python For Everyone</b>
